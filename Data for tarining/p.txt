@@ -1,0 +1,21 @@
+property transfer
+
+1-)Either the property is inherited or you have to purchase it? 
+
+2-)What is the scale of the land of the property?
+
+3-)Either it is urban or rural?
+
+4-) is the property in a residential area or commercial 
+
+5-) What should be the method of payment( Installment or upfront)
+
+6-) do you have the knowledge about the tax emposed on the property?( capital and municipal corporation tax)
+
+7-) Do you wish to hire a lawyer or do you want to involve local commission?
+
+8-) Do you have all the knowledge about the legal status of that specific property?
+
+9-) Caveat emptor?(specific details of the property shown before court to attain the knowledge about the legal status of the property)
+
+10-) What would be the period of installments(If purchasing on installment basis)
